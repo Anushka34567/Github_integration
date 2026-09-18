@@ -1,0 +1,11 @@
+mongo:
+  host: trudesk.xjzj78s.mongodb.net
+  port: '---'
+  username: 31aryanagivale_db_user
+  password: Aryan@1708
+  database: trudesk
+  shard: true
+tokens:
+  secret: 9b2d863e-f140-4122-b2d0-1123456789ac
+  expires: 900
+elasticsearch: {}
